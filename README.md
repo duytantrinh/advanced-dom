@@ -1,1 +1,2 @@
-* Page: https://duytantrinh.github.io/advanced-dom/
+# Page
+(https://duytantrinh.github.io/advanced-dom/)
