@@ -1,2 +1,2 @@
-# Avanced DOM vanilla javascript
+# Avanced DOM vanilla javascript, lazy loading image, tab, slider....
 Website: https://duytantrinh.github.io/advanced-dom/
